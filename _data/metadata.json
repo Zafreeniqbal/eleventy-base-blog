@@ -1,20 +1,20 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Zafreen Iqbal's Blog",
+  "url": "https://ZafreenIqbal.com/",
+  "description": "I am writing about my experiences as a JAMStack developer.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about my experiences whilst learning how to become a developer.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://ZafreenIqbal.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://ZafreenIqbal.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Zafreen",
+    "email": "zaf2006@hotmail.co.uk",
+    "url": "https://ZafreenIqbal.com/about-me/"
   }
 }
