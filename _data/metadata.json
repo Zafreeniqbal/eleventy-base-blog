@@ -1,12 +1,12 @@
 {
   "title": "Zafreen Iqbal's Blog",
-  "url": "https://ZafreenIqbal.com/",
+  "url": "https://adoring-villani-ed7fb5.netlify.app/",
   "description": "I am writing about my experiences as a JAMStack developer.",
   "feed": {
     "subtitle": "I am writing about my experiences whilst learning how to become a developer.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://ZafreenIqbal.com/"
+    "id": "https://adoring-villani-ed7fb5.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
@@ -15,6 +15,6 @@
   "author": {
     "name": "Zafreen",
     "email": "zaf2006@hotmail.co.uk",
-    "url": "https://ZafreenIqbal.com/about-me/"
+    "url": "https://adoring-villani-ed7fb5.netlify.app/"
   }
 }
